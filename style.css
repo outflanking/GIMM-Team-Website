@@ -1,3 +1,28 @@
 html {
 	margin: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+li {
+	display: inline;
+	padding:10px;
+}
+
+h1 {
+	text-align:center;
+}
+
+.mainContent {
+	text-align: center;
+}
+
+.nav {
+	margin:0;
+	text-align:center;
 }
