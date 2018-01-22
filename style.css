@@ -43,8 +43,9 @@ h1, h3 {
 
 
 .mainContent {
-	text-align: center;
-	width: 60%;
+    text-align: center;
+    width: calc(100% - 40px);
+    max-width: 1000px;
 	background-color: #fff;
 	margin:auto;
 	padding:20px;
