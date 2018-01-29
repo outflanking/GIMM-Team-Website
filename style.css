@@ -72,6 +72,7 @@ li a.active {
 .hero .caption h1 {
     font-size: 48px;
     color: #fff;
+    text-shadow: 1px 1px 10px #000;
 }
 .content {
     padding: 40px 0;
