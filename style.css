@@ -12,6 +12,9 @@ html {
 body {
     font-size: 16px;
 }
+p {
+    padding: 10px 0;
+}
 h1 {
     font-size: 36px;
 }
@@ -78,6 +81,16 @@ li a.active {
     padding: 40px 0;
 }
 /* End Home Page */
+
+/* Secondary Page */
+.secondary-header {
+    background: linear-gradient(-46deg, rgba(0,0,0,0), rgba(0,0,0,0.6)), url(img/gopher-header.jpg) no-repeat center / cover;
+    padding: 50px 0;
+}
+.secondary-header h1 {
+    color: #fff;
+}
+/* End Secondary Page */
 
 /* Mobile Styles */
 @media (max-width: 768px) {
