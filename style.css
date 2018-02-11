@@ -58,8 +58,16 @@ li a.active {
     font-weight: 700;
 }
 /* End Navigation Bar */
+/* Footer styles*/
+footer {
+    background: #f3f3f3;
+    padding: 14px;
+    text-align: center;
+    color: rgb(197, 188, 188);
+}
 
-/* Home Page */
+/* End Footer Styles*/
+/* Home Page */ 
 .hero {
     background: url('img/gopher.jpg') no-repeat center / cover;
 }
