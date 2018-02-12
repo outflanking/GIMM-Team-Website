@@ -46,6 +46,7 @@ h4 {
 .width-control.padding {
     width: calc(100% - 40px);
 }
+
 /* End General Styles */
 
 /* Navigation Bar */
@@ -78,7 +79,7 @@ footer {
     background: #f3f3f3;
     padding: 14px;
     text-align: center;
-    color: rgb(197, 188, 188);
+    color: rgb(112, 108, 108);
 }
 
 /* End Footer Styles*/
@@ -109,8 +110,15 @@ footer {
 }
 .secondary-header h1 {
     color: #fff;
+
 }
-/* End Secondary Page */
+.box {
+    display: flex;
+    align-items: stretch;
+    padding: 30px 30px;
+  }
+
+    /* End Secondary Page */
 
 /* Mobile Styles */
 @media (max-width: 768px) {
