@@ -59,6 +59,9 @@ nav {
 }
 nav li {
     float: left;
+    list-style-type: none;
+    display: block;
+    margin: 0;
 }
 nav li a {
     display: block;
